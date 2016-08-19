@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.8717143225949258
 name: STEVE PHARRIS
+navigation:
+  - name: About me
+    url: 'http://stevepharris.com/'
+    type: external
 title: 'WEBSITES, GRAPHICS,'
 description: INFORMATION TECHNOLOGY WIZARD
