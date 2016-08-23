@@ -1,4 +1,3 @@
-layout_spectrum: 0.48946520453318954
 typography_spectrum: 0.11296174093149602
 color:
   brandStrength: 0.8181707747280598
@@ -11,10 +10,7 @@ color:
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
+layout_spectrum: 0.48946520453318954
 name: JAW DROPPERS
-navigation:
-  - name: About me
-    url: 'http://stevepharris.com/'
-    type: external
 title: CAUSE WHO DOESN'T LIKE HOT CHICKS??
 description: Testing The Grid AI
