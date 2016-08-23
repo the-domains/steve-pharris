@@ -1,4 +1,3 @@
-layout_spectrum: 0.8717143225949258
 typography_spectrum: 0.037362183909863234
 color:
   brandStrength: 0.7237228660378605
@@ -11,4 +10,11 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: Steve Pharris
+layout_spectrum: 0.8717143225949258
+name: STEVE PHARRIS
+navigation:
+  - name: About me
+    url: 'http://stevepharris.com/'
+    type: external
+title: 'WEBSITES, GRAPHICS,'
+description: INFORMATION TECHNOLOGY WIZARD
