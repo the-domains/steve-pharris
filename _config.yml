@@ -12,5 +12,9 @@ color:
     - '#F0CEB7'
 layout_spectrum: 0.48946520453318954
 name: JAW DROPPERS
+navigation:
+  - name: test
+    id: 78544749-3825-4a0d-8625-e5ca420be067
+    type: content
 title: CAUSE WHO DOESN'T LIKE HOT CHICKS??
 description: Testing The Grid AI
