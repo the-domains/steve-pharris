@@ -12,5 +12,9 @@ color:
     - '#F0CEB7'
 layout_spectrum: 0.48946520453318954
 name: JAW DROPPERS
+navigation:
+  - name: Bully Suicide
+    id: 7b4eeb2e-1aa1-4142-8ebf-23999f4a37d6
+    type: content
 title: CAUSE WHO DOESN'T LIKE HOT CHICKS??
 description: Testing The Grid AI
